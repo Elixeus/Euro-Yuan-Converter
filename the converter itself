@@ -1,0 +1,12 @@
+#include <stdio.h>
+ 
+main()
+{
+float Euro = 0;
+float Yuan = 0;
+Yuan = Euro / 6.888;
+  \\input the number of Yuan then print the result
+  printf("%f Yuan = %f Euro/n", number of yuan, Euro);
+
+return 0;
+}
